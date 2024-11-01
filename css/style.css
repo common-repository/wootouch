@@ -1,0 +1,57 @@
+.screen .show_upload {   width: auto;     margin: 0 20px 0 0px; }
+
+.screen .show_txt {     margin-bottom: 20px;     width: auto; }
+
+.screen p.submit {    float: left;    width: 100%;  margin: 0;}
+
+.screen form strong {  float: left;   width: 100%;   margin-bottom: 20px; }
+
+.screen .show_txt p {  margin: 3px 0 5px 0;}
+
+.screen .show_color { margin-top: 20px; float: left; width: 100%;}
+.screen .show_color p{float: left; margin-right: 10px; vertical-align: top;}
+.screen .show_color .wp-picker-container{ float: left; margin-top: 13px;}
+
+.screen img.screen_logo { border: 1px solid #ccc;  padding:3px; box-sizing: border-box;}
+
+.screen .show_color .iris-picker.iris-border { display: block !important; margin-top: 0 !important;}
+
+.screen .wp-picker-holder { float: right;}
+
+.screen .wp-color-result:after{font-size:14px !important}
+
+.screen .show_color p{font-size:14px;}
+
+.screen div#Overview p { font-size: 15px;}
+
+.screen .show_txt p { font-size: 14px;}
+
+.screen .wp-core-ui .button-primary { font-size: 14px;}
+
+.screen .nav-tab{    border-top-left-radius: 5px; border-top-right-radius: 5px; box-shadow: none !important; font-size: 15px; font-weight: bold;margin-left: 5px;}
+
+.screen .nav-tab.active { background: #f1f1f1; border-bottom: 1px solid #f1f1f1; margin-bottom: -1px;color:#000;}
+
+.screen div#Overview { float: left; width: 100%; padding: 20px; box-sizing: border-box; border: 1px solid #ccc; border-top: none;}
+
+.screen div#Settings { float: left; width: 100%; padding: 20px; border: 1px solid #ccc; border-top: none; box-sizing: border-box;}
+
+.screen div#Terms { float: left; width: 100%; padding: 20px; box-sizing: border-box; border: 1px solid #ccc; border-top: none;}
+
+.screen div#Contact { float: left; width: 100%; padding: 20px; border: 1px solid #ccc; border-top: none; box-sizing: border-box;}
+
+.screen .show_back_color p { float: left; width: auto; margin: 0 20px 0 0px; }
+
+.screen .show_back_color { margin: 30px 0 0 0; }
+
+.screen .show_font_color p { float: left;  width: auto; margin: 0 63px 0 0; }
+
+.screen .show_font_color { margin: 30px 0 0 0; }
+
+.screen .iris-picker.iris-border { display: block !important; margin: 0 !important; }
+
+.screen .load{border: 1px solid #ccc;  padding: 3px;  box-sizing: border-box;}
+
+.screen ul.feature { list-style-type: square; margin:15px; }
+
+.screen  h2.nav-tab-wrapper { margin-bottom: 0; border-bottom: 1px solid #ccc; }
